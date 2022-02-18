@@ -11,3 +11,5 @@ Linux için:
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız. 
 ## License
 [MIT](https://github.com/sametasik/kodluyoruzilkrepo/blob/5615a9cba180eda631073c5294b721bc59e6d1e2/LICENSE)
+
+![alt text](https://github.com/opengraph.png)
